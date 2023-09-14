@@ -1,0 +1,2 @@
+DB Oparation
+1. sd_order_list (add new field) accept_status INT(0 or riderID)
